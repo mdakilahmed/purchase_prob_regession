@@ -52,7 +52,7 @@ pip install pandas scikit-learn
 
 1. **Clone the repository** (or download the project files):
    ```bash
-   git clone https://github.com/mdakilahmed/loan_prob_regession
+   git clone https://github.com/mdakilahmed/purchase_prob_regession
    cd customer-segmentation
    ```
 
